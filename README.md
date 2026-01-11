@@ -36,7 +36,7 @@ User Query → Query Embedding → Similarity Search → LLM Response
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/simplerag.git
+git clone https://github.com/Vishnudharshan-33/simple-rag.git
 cd simplerag
 ```
 
@@ -181,8 +181,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🔗 Connect
 
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
+- **GitHub**: https://github.com/Vishnudharshan-33
+- **LinkedIn**: https://www.linkedin.com/in/vishnu-dharshan-k/
 
 ## 🙏 Acknowledgments
 
